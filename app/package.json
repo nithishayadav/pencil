@@ -41,7 +41,7 @@
   ],
   "dependencies": {
     "@electron/remote": "^2.0.1",
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.5.10",
     "archive-type": "^4.0.0",
     "archiver": "^3.0.0",
     "decompress": "^4.0.0",
